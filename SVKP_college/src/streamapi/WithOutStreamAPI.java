@@ -1,9 +1,10 @@
 package streamapi;
 
+
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-
 public class WithOutStreamAPI {
     public static void main(String[] args) {
         // Original list of numbers

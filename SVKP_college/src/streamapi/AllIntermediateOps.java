@@ -1,5 +1,7 @@
 package streamapi;
 
+
+
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -36,6 +38,8 @@ public class AllIntermediateOps {
 		List<Integer> skipped=numbers.stream().skip(2).collect(Collectors.toList());
 		System.out.println("Skipped data "+skipped );
 	}
+	
+
 }
-	
-	
+
+
