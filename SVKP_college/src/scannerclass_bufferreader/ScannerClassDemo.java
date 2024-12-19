@@ -1,6 +1,6 @@
 package scannerclass_bufferreader;
 
-public class ScannerClassDemo {
+import java.util.Scanner;
 
 //Import the Scanner class
 //Create a scanner object
@@ -20,11 +20,8 @@ public class ScannerClassDemo {
 	
 		System.out.println("name :"+ name +"  " +" age : "+ age);
 		scan.close();
+		
+		
 	}
-}
-}
-		
-		
-	
 
-
+}
